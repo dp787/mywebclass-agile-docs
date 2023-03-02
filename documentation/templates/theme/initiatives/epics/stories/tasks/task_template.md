@@ -1,15 +1,14 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: User Profile Management 
 
-User Story: [Reference the user story that this task supports]
+User Story: As a powerlifting registered user, I want to be able to manage my profile information easily, so that I can keep my information up to date.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: This task involves developing an enhanced profile management feature for powerlifting users. The feature should allow powerlifting users to edit and update their personal information and lifting data, including name, email address, phone number, profile picture, personal records, and competition results. Powerlifting users should be required to enter their current password to update their personal information or change their password.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 16 Hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Devendra Pitam
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: Medium 
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not Started
 
-Notes: [Include]
