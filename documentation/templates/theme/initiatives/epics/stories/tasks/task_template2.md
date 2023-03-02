@@ -1,14 +1,14 @@
-Task Title: User Profile Management 
+Task Title: Customizable Dashboard for Lifting Data
 
-User Story: As a powerlifting registered user, I want to be able to manage my profile information easily, so that I can keep my information up to date.
+User Story: As a powerlifter, I want to be able to customize my dashboard, so that I can easily see the lifting data that's most important to me.
 
-Description: This task involves developing an enhanced profile management feature for powerlifting users. The feature should allow powerlifting users to edit and update their personal information and lifting data, including name, email address, phone number, profile picture, personal records, and competition results. Powerlifting users should be required to enter their current password to update their personal information or change their password.
+Description: The task involves creating a customizable dashboard feature that allows users to select and add widgets to display their lifting data. The widgets should include lifting numbers, progress charts, and personal records. The feature should allow users to save their customized dashboard and have it persist across sessions. Users should also be able to reset their dashboard to the default layout at any time.
 
-Effort Estimate: 16 Hours
+Effort Estimate: 24 Hours
 
 Assigned To: Devendra Pitam
 
-Priority: Medium 
+Priority: High 
 
 Status: Not Started
 

@@ -1,7 +1,6 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
-
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
-
+"As a Powerlifter, I want to track my lifting numbers overtime that  way I can monitor my performance and make data-driven decisions to improve my training. By creating this user-friendly interface and implementing a database that can store and analyze the data given, we can than create an extensive platform for the Powerlifter to track their numbers and monitor their progress. This will enable us to provide insights and analysis on the Powerlifter, helping them to identify areas for improvement and optimize their training program. By following the lean and agile methodologies of continuous improvement, we can quickly and effectively develop the website, incorporating feedback and making adjustments as necessary to meet the Powerlifter's needs , this will set us up for a long-term benefit of building a loyal user base and establishing ourselves as a trusted provider of fitness tracking and analysis tools.
+ 
 
 # List initiatives related to this theme
 1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+2. 
