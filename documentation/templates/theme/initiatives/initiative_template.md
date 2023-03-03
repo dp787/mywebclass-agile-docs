@@ -14,7 +14,7 @@ Milestones: Develop and test the user interface; Create and test the database an
 
 Constraints: Limited budget and resources; The website must be accessible to users with disabilities.
 
-Assumptions: There will be a significant demand for a user-friendly powerlifting tracking website; Users will be willing to pay for premium features such as advanced analytics and personalized coaching; There will be no major technical issues during the development process.
+Assumptions: There will be a significant demand for a user-friendly powerlifting tracking website; Users will be willing to pay for premium features such as advanced analytics and personalized coaching; There will be no major technical issues during the development process. Users should input true numbers rather than false numbers to ensure the best outcome of their program
 
 Risks: Technical issues may arise during the development process, leading to delays and additional costs; Competitors may launch similar products, reducing demand for our website; Users may not find the website user-friendly or useful, leading to low adoption rates; Data breaches or privacy violations may occur, damaging our reputation and resulting in legal action.
 
