@@ -8,7 +8,7 @@ User Stories: As a powerlifter, I want to be able to input my lifting numbers ea
 
 Dependencies: Secure funding for the project; Attract a significant user base to the website; Website hosting and server infrastructure must be in place
 
-Risks: User feedback may be overwhelming or conflicting, making it difficult to prioritize and implement changes; The market for fitness tracking websites may become saturated, making it difficult to stand out and attract a significant user base.
+Risks: User feedback may be overwhelming or conflicting, making it difficult to prioritize and implement changes; The market for fitness tracking websites may become saturated, making it difficult to stand out and attract a significant user base; Technical Issues, causing the users to receive false feedback
 
 Estimated Effort: 14 Days
 
